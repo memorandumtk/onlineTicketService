@@ -1,0 +1,4 @@
+/node_modules
+
+# because of being stored detabase access key.
+.env
